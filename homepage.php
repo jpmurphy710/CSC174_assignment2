@@ -5,7 +5,7 @@
 	<head>
 		<meta charset="utf-8">
 		<title>Welcome to Chattanooga | Assignment 2: Smash Website</title>
-		<link rel="stylesheet" href="css/home_styles.css"><!-- css for homepage -->
+		<link rel="stylesheet" href="css/styles.css"><!-- css for homepage -->
 	</head>
 
 
