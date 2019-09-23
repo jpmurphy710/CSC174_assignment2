@@ -9,9 +9,9 @@
 
 <body class="container">
 	<header>
-		<a href="index.php">
+		<a href="jhuo3-index.php">
 			<h1>Jialin Huo</h1>
-			<img src="images/me.jpeg" alt="me">
+			<img src="jhuo3-images/me.jpeg" alt="me">
 		</a>
 	</header>
 
