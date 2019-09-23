@@ -5,6 +5,10 @@ include "inc/html-top.inc";
 
 <?php include "inc/nav.inc"; ?>
 
+
+<?php include "../inc/menu.php"; ?> <!-- Eyebrow Menu -->
+
+
 		<main>
 			<h1>Interests</h1>
 

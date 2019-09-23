@@ -1,8 +1,6 @@
 <?php include "inc/html-top.php"; ?>
-
-
-
 <?php include "inc/nav.php"; ?>
+<?php include "../inc/menu.php"; ?> <!-- Eyebrow Menu -->
 
 
 	<main>

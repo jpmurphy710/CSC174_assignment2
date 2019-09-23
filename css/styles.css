@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css?family=Livvic|Nunito|Source+Code+Pro&display=swap');
+
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+	max-width: 780px;
+
+	display: grid;
+/*	grid-template-columns: 50% 50%;*/
+	grid-template-rows: auto auto auto auto auto auto;
+
+}
+
+.menu {
+	grid-row: 5 / 6;
+}
+
+header h1 {
+	font-family: 'Livvic', sans-serif;
+	color: black;
+}
+
+header {
+	grid-column: 1 / 3;
+}
+
+
+nav {
+	grid-row: 4 / 5;
+	grid-column: 1 / 3;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+nav li {
+	margin: 10px;
+	padding: 10px;
+	max-width: 200px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 8px;
+	margin: 10px;
+/*	background-color: #bb85cc;*/
+	float: left;
+}
+
+li {
+	list-style-type: none;
+}
+
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+
+main p, footer {
+	font-family: 'Nunito', sans-serif;
+	text-align: center;
+}
+
+
+main {
+	grid-row: 3 / 4;
+	grid-column: 1 / 3;
+	margin-top: 20px;
+}
+
+footer {
+	font-size: 15px;
+	grid-row: 6 / 7;
+	grid-column: 1 / 3;
+	margin: 20px;
+	padding: 20px;
+	border-top: 1px solid black;
+}
+
+aside {
+	font-family: 'Source Code Pro', monospace;
+	grid-row: 2 / 3;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	grid-column: 1 / 3;
+	text-align: center;
+	border: 1px solid black;
+	border-radius: 8px;
+}
+
+aside li {
+	position: relative;
+	left: -20px;
+}
+
+ul, ol {
+
+}
+
+body ul, ol {
+	line-height: 1.5;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	padding-top: 20px;
+}
+
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	max-width: 780px;
+	width:  50%;
+	height: 50%;
+	padding-bottom: 10px;
+	grid-row: 1 / 3;
+}
