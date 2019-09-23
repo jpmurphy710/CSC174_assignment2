@@ -10,7 +10,7 @@
 
 <body class="container">
 	<header>
-		<a href="index.php">
+		<a href="jngene-index.php">
 			<h1>Jennifer A Ngene</h1>
 			<img src="images/me.jpg" alt="me">
 		</a>
