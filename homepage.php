@@ -19,16 +19,7 @@
 			<img class="img1" src="images/chattanooga.jpg" alt="chattanooga">
 			<img class="img2" src="images/chattanooga.jpg" alt="chattanooga">
 
-
-			<nav>
-				<ul>
-					<li><a href="cmarti21/index.php">Pancho Peach</a></li>
-					<li><a href="jhuo3/index.php">Jialin Huo</a></li>
-					<li><a href="jngene/index.php">Jennifer Ngene</a></li>
-				</ul>
-			</nav>		
-
-
+			<?php include "inc/menu.php"; ?> -->	
 
 			<main>
 

@@ -1,6 +1,5 @@
-<?php include "inc/html-top.php"; ?>
-<?php include "inc/nav.php"; ?>
-<?php include "../inc/menu.php"; ?> <!-- Eyebrow Menu -->
+<?php include "inc/cmarti21-html-top.php"; ?>
+<?php include "inc/cmarti21-nav.php"; ?> -->
 
 
 	<main>
@@ -15,7 +14,7 @@
 	</main>
 
 
-	<?php include "../inc/footer.php"; ?>
+	<?php include "inc/footer.php"; ?>
 
 
 </body></html>
