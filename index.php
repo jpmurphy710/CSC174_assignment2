@@ -19,7 +19,7 @@
 			<img class="img1" src="images/chattanooga.jpg" alt="chattanooga">
 			<img class="img2" src="images/chattanooga.jpg" alt="chattanooga">
 
-			<?php include "inc/menu.php"; ?> -->	
+			<?php include "inc/menu.php"; ?>	
 
 			<main>
 
