@@ -9,7 +9,7 @@
 
 <body class="container">
 	<header>  
-		<a href="index.php">
+		<a href="cmarti21-index.php">
 			<h1> Pancho Peach</h1>
 			<img src="images/pancho.jpg" alt="Photo of happy Panch on the way to the park New York, NY">
 		</a>
