@@ -7,7 +7,7 @@
 	</ul>
 </nav>
 
-<nav>
+<nav class="menu">
 
 		<ul>
 			<li><a href="cmarti21-index.php">Pancho</a></li>
