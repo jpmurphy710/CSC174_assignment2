@@ -15,12 +15,7 @@
 	</main>
 
 
-	<footer>
-			CSC 174: Advanced Front-end and Web Design and Development
-	</footer>
-
-
-	<?php include "js/scripts.php"; ?>
+	<?php include "../inc/footer.php"; ?>
 	
 
 </body></html>
